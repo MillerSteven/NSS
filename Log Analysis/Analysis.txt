@@ -17,16 +17,16 @@
 
 
 
-	1.
+	1. Php security access, message, security, and log files.
 
-	2.
+	2. The date in which the access, message or error occurred.
 
-	3.
+	3. It appears to be 1,143 unique users.
 
-	4.
+	4. The largest export appears to be the default page (index.html) at around 22 megabytes.
 
-	5.
+	5. The most common error appears to be “File does not exist”.
 
-	6.
+	6. The secure log seems to showing several attempts to brute force break into the server. The log in attempts seem to be entirely too fast for a person who has simply forgot their password.
 
-	7.
+	7. Overall it seems to be line after line of users logging into and out of the server, their also appears to be several attempts to break in. The page also appears to be hit by several search engines. As well as several errors stating that a file or script does not exist. 
