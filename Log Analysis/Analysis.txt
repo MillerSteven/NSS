@@ -1,0 +1,32 @@
+
+    1.What type of log files are they?
+
+    2.What are the dates which are represented by the logs?
+
+    3.How many unique users appear?
+
+    4.What was the largest data export? and does it look out of the ordinary?
+
+    5.What is the most common error found in the error logs?
+
+    6.Do you see anything which is out of the ordinary?
+
+    7.Write a short synopsis of what you found.
+
+
+
+
+
+	1.
+
+	2.
+
+	3.
+
+	4.
+
+	5.
+
+	6.
+
+	7.
